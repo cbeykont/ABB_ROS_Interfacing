@@ -5,10 +5,10 @@ Move Commands for ABB Robots from ROS environment. This project is done and acti
 
 ### A. Data receive from Robot to ROS
 
-  Part1 - Data Receive Preparation ROS
-   * Communication preparation ROS
+  Part1 - Data Receive Preparation in ROS
+   * Communication preparation in ROS environment. 
    * Set up network parameters
-   * Communication program scripting
+   * Communication program scripting in ROS. 
      
   Part2 - Data Receive Preparation Robotstudio
    * Solution preparation
